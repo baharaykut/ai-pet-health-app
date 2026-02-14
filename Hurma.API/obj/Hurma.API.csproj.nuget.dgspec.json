@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbaha\\Hurma.API\\Hurma.API.csproj": {}
+    "C:\\Users\\bbaha\\Desktop\\Hurma.API\\Hurma.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbaha\\Hurma.API\\Hurma.API.csproj": {
+    "C:\\Users\\bbaha\\Desktop\\Hurma.API\\Hurma.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbaha\\Hurma.API\\Hurma.API.csproj",
+        "projectUniqueName": "C:\\Users\\bbaha\\Desktop\\Hurma.API\\Hurma.API.csproj",
         "projectName": "Hurma.API",
-        "projectPath": "C:\\Users\\bbaha\\Hurma.API\\Hurma.API.csproj",
+        "projectPath": "C:\\Users\\bbaha\\Desktop\\Hurma.API\\Hurma.API.csproj",
         "packagesPath": "C:\\Users\\bbaha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbaha\\Hurma.API\\obj\\",
+        "outputPath": "C:\\Users\\bbaha\\Desktop\\Hurma.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

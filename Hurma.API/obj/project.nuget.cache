@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4iXW9lvXMM=",
+  "dgSpecHash": "0bty23ofDno=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bbaha\\Hurma.API\\Hurma.API.csproj",
+  "projectFilePath": "C:\\Users\\bbaha\\Desktop\\Hurma.API\\Hurma.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bbaha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bbaha\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
