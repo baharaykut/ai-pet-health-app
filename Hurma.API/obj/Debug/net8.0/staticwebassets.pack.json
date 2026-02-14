@@ -1,0 +1,261 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\073374f1-fd05-4df1-b43b-a1322c795f36.jpg",
+      "PackagePath": "staticwebassets\\uploads\\073374f1-fd05-4df1-b43b-a1322c795f36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\29fb7a57-d023-422e-b3dc-de6615f7f22e.png",
+      "PackagePath": "staticwebassets\\uploads\\29fb7a57-d023-422e-b3dc-de6615f7f22e.png"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\677b70b6-6037-4d78-af4f-bbe1194bbf7d.png",
+      "PackagePath": "staticwebassets\\uploads\\677b70b6-6037-4d78-af4f-bbe1194bbf7d.png"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\6cc13840-8400-480e-aac7-cc2ffb825d7d.png",
+      "PackagePath": "staticwebassets\\uploads\\6cc13840-8400-480e-aac7-cc2ffb825d7d.png"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\701d3351-7732-4595-8c54-5f50631a28e9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\701d3351-7732-4595-8c54-5f50631a28e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\919d4015-b97a-4bd4-99db-535e81167a96.jpg",
+      "PackagePath": "staticwebassets\\uploads\\919d4015-b97a-4bd4-99db-535e81167a96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\0cb26e55-9763-400d-a27f-3a349d00576a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\0cb26e55-9763-400d-a27f-3a349d00576a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\2cd76de1-b110-4c16-8708-a3c133d414ea.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\2cd76de1-b110-4c16-8708-a3c133d414ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\3003776f-66e8-462e-9ff3-9bb1322b4030.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\3003776f-66e8-462e-9ff3-9bb1322b4030.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4ed51156-b073-4204-816c-097787a45325.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\4ed51156-b073-4204-816c-097787a45325.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\8facfaca-969c-48c1-97be-dd1901887bb1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\8facfaca-969c-48c1-97be-dd1901887bb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\9671bf21-b035-4070-8c75-f9e21844a1df.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\9671bf21-b035-4070-8c75-f9e21844a1df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\996962bf-503c-4fb1-a649-ba3b9516d180.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\996962bf-503c-4fb1-a649-ba3b9516d180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99c461bd-45da-4566-ab6a-478000add389.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\99c461bd-45da-4566-ab6a-478000add389.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a202d262-4591-4f6c-9940-477716c58335.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\a202d262-4591-4f6c-9940-477716c58335.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b877f682-7b29-4ee3-ade7-95adb84de501.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\b877f682-7b29-4ee3-ade7-95adb84de501.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c48439a9-e747-4343-8d2a-057704aae998.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\c48439a9-e747-4343-8d2a-057704aae998.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cc284ea7-bde2-4652-be1e-075f144031f1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\cc284ea7-bde2-4652-be1e-075f144031f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1813cdf-69a9-47f7-b675-d5e816619765.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\e1813cdf-69a9-47f7-b675-d5e816619765.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5d26852-d37f-4642-80d6-700240cbc244.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\e5d26852-d37f-4642-80d6-700240cbc244.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ai\\f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e903b4cb-1212-4141-bf55-a55591e3a193.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e903b4cb-1212-4141-bf55-a55591e3a193.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-kum-1.png",
+      "PackagePath": "staticwebassets\\uploads\\kedi-kum-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-mama-1.png",
+      "PackagePath": "staticwebassets\\uploads\\kedi-mama-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-oyuncak-1.png",
+      "PackagePath": "staticwebassets\\uploads\\kedi-oyuncak-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kopek-mama-1.png",
+      "PackagePath": "staticwebassets\\uploads\\kopek-mama-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\profiles\\user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\3553f108-c712-4fa0-a6e8-2377f670a303.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stories\\3553f108-c712-4fa0-a6e8-2377f670a303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\5152820a-39e4-4086-862b-7345b7ca8009.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stories\\5152820a-39e4-4086-862b-7345b7ca8009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stories\\64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\69a7a800-ebf0-440f-966f-da03dd34fc01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stories\\69a7a800-ebf0-440f-966f-da03dd34fc01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\82305019-e832-4999-ad13-d66afdaa4ca9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stories\\82305019-e832-4999-ad13-d66afdaa4ca9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stories\\bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stories\\ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\tasima-cantasi-1.png",
+      "PackagePath": "staticwebassets\\uploads\\tasima-cantasi-1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hurma.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hurma.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hurma.API.props",
+      "PackagePath": "build\\Hurma.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hurma.API.props",
+      "PackagePath": "buildMultiTargeting\\Hurma.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hurma.API.props",
+      "PackagePath": "buildTransitive\\Hurma.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,6099 @@
+{
+  "Version": 1,
+  "Hash": "x0AA2GlRWpW4IzjsePKegQ5bK5HjhjokxoiE4GwruyE=",
+  "Source": "Hurma.API",
+  "BasePath": "_content/Hurma.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Hurma.API\\wwwroot",
+      "Source": "Hurma.API",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\073374f1-fd05-4df1-b43b-a1322c795f36.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/073374f1-fd05-4df1-b43b-a1322c795f36#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jk9u8k8nz8",
+      "Integrity": "DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\073374f1-fd05-4df1-b43b-a1322c795f36.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\29fb7a57-d023-422e-b3dc-de6615f7f22e.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/29fb7a57-d023-422e-b3dc-de6615f7f22e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5kpo1uuc26",
+      "Integrity": "ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\29fb7a57-d023-422e-b3dc-de6615f7f22e.png"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jk9u8k8nz8",
+      "Integrity": "DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/47afc1ee-75b9-43af-8540-cbacd9e08f7c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m4ic54dm1d",
+      "Integrity": "OhRqjYjoOxGhh77ANiuiLH7D3nRPMMBSkuyQjqNLB9I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qh0z1hryt1",
+      "Integrity": "wl1cDAKeaAGNWax/UeMrnxIuG8/HhP4xQAavltVKF50=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/5dc8295c-2b84-4fb4-9d1a-430feadefc05#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "keisjolm98",
+      "Integrity": "1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\677b70b6-6037-4d78-af4f-bbe1194bbf7d.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/677b70b6-6037-4d78-af4f-bbe1194bbf7d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5kpo1uuc26",
+      "Integrity": "ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\677b70b6-6037-4d78-af4f-bbe1194bbf7d.png"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\6cc13840-8400-480e-aac7-cc2ffb825d7d.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/6cc13840-8400-480e-aac7-cc2ffb825d7d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5kpo1uuc26",
+      "Integrity": "ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6cc13840-8400-480e-aac7-cc2ffb825d7d.png"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\701d3351-7732-4595-8c54-5f50631a28e9.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/701d3351-7732-4595-8c54-5f50631a28e9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "keisjolm98",
+      "Integrity": "1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\701d3351-7732-4595-8c54-5f50631a28e9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/8528c2ad-8f93-4466-ab45-1c669f0d5b6f#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w7uvzfqm6n",
+      "Integrity": "RJZV4KubweXaXDx8A1LdR7FeLKg5WFmx6HCZ2I3Y4LA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zr1mk4wytn",
+      "Integrity": "f1YazLgnpcMCo2gS0mhGnEXsbcix0s288ZZ2jlqP7WI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\919d4015-b97a-4bd4-99db-535e81167a96.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/919d4015-b97a-4bd4-99db-535e81167a96#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ssdhsp5f8g",
+      "Integrity": "HBBdGk+R8cQp8+srKeYrjPABFGKysTRrl6oONvWeUbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\919d4015-b97a-4bd4-99db-535e81167a96.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\0cb26e55-9763-400d-a27f-3a349d00576a.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/0cb26e55-9763-400d-a27f-3a349d00576a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbseqmb03b",
+      "Integrity": "5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\0cb26e55-9763-400d-a27f-3a349d00576a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\2cd76de1-b110-4c16-8708-a3c133d414ea.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/2cd76de1-b110-4c16-8708-a3c133d414ea#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbseqmb03b",
+      "Integrity": "5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\2cd76de1-b110-4c16-8708-a3c133d414ea.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\3003776f-66e8-462e-9ff3-9bb1322b4030.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/3003776f-66e8-462e-9ff3-9bb1322b4030#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2m3fkeu7rw",
+      "Integrity": "CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\3003776f-66e8-462e-9ff3-9bb1322b4030.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4ed51156-b073-4204-816c-097787a45325.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/4ed51156-b073-4204-816c-097787a45325#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2m3fkeu7rw",
+      "Integrity": "CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\4ed51156-b073-4204-816c-097787a45325.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/4f7fe090-c53f-409e-ad97-d29a77dee7be#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/52abcec4-409f-4f49-9e26-f8dd454c2f07#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/760d4a5c-921f-43f6-ab03-41f8d8e588b0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/7bb5494f-d4f1-4518-8a37-df126c7d6200#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vcrfy5mrz1",
+      "Integrity": "P+7K3PaP9U9QMKtj5iH7hfntj4xKj0/QRuW5okdjJ6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/7d68c0db-4c09-490d-83ef-0e0af2d0b9c0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\8facfaca-969c-48c1-97be-dd1901887bb1.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/8facfaca-969c-48c1-97be-dd1901887bb1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfnrx9dzi3",
+      "Integrity": "ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\8facfaca-969c-48c1-97be-dd1901887bb1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\9671bf21-b035-4070-8c75-f9e21844a1df.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/9671bf21-b035-4070-8c75-f9e21844a1df#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\9671bf21-b035-4070-8c75-f9e21844a1df.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\996962bf-503c-4fb1-a649-ba3b9516d180.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/996962bf-503c-4fb1-a649-ba3b9516d180#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\996962bf-503c-4fb1-a649-ba3b9516d180.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99c461bd-45da-4566-ab6a-478000add389.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/99c461bd-45da-4566-ab6a-478000add389#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfnrx9dzi3",
+      "Integrity": "ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\99c461bd-45da-4566-ab6a-478000add389.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/99e6e66b-608e-4259-9101-5cf4e7732a7a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "heay0isryf",
+      "Integrity": "KXGccZVPIncyZRaGWCKE6/NPehNA+t7VJBFtxUeGGTw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a202d262-4591-4f6c-9940-477716c58335.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/a202d262-4591-4f6c-9940-477716c58335#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02sii84k1i",
+      "Integrity": "eO897G7mUDbF817n5bNUUG5CMTv1g1/Vd46CQ/fc9pA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\a202d262-4591-4f6c-9940-477716c58335.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/a75efb58-bb42-4e6b-9bec-049a802ebafa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfnrx9dzi3",
+      "Integrity": "ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfnrx9dzi3",
+      "Integrity": "ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b877f682-7b29-4ee3-ade7-95adb84de501.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/b877f682-7b29-4ee3-ade7-95adb84de501#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\b877f682-7b29-4ee3-ade7-95adb84de501.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/bd04426e-2ad0-4742-9f15-0caa600f28fa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/c3cb5385-bea8-4328-8e53-9738d691a8b7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c48439a9-e747-4343-8d2a-057704aae998.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/c48439a9-e747-4343-8d2a-057704aae998#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfnrx9dzi3",
+      "Integrity": "ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\c48439a9-e747-4343-8d2a-057704aae998.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cc284ea7-bde2-4652-be1e-075f144031f1.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/cc284ea7-bde2-4652-be1e-075f144031f1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbseqmb03b",
+      "Integrity": "5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\cc284ea7-bde2-4652-be1e-075f144031f1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/ce1f4929-bbac-4252-af8e-f1cf47d334ed#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2m3fkeu7rw",
+      "Integrity": "CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/cf853de4-a92b-4cf2-9add-6ef714eb9bb2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lik8dq9ond",
+      "Integrity": "3X5Qmmx77VML264mFvBK8igPZM4FA7S2ZYjKsa9IAeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/e1067b5e-6b65-4b86-b2a2-cb751dc6f22b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsvhzjt9wx",
+      "Integrity": "xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1813cdf-69a9-47f7-b675-d5e816619765.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/e1813cdf-69a9-47f7-b675-d5e816619765#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbseqmb03b",
+      "Integrity": "5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\e1813cdf-69a9-47f7-b675-d5e816619765.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/e5bfa823-8c20-4974-9cd7-af1ab357f460#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbseqmb03b",
+      "Integrity": "5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5d26852-d37f-4642-80d6-700240cbc244.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/e5d26852-d37f-4642-80d6-700240cbc244#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbseqmb03b",
+      "Integrity": "5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\e5d26852-d37f-4642-80d6-700240cbc244.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/e69eefad-5a31-45e6-9f1b-43a777c4afa3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2m3fkeu7rw",
+      "Integrity": "CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/ecaf3d81-42a6-49e4-9604-ba0c29aae7d7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c4ky4n5xsb",
+      "Integrity": "pJVSKSvUiMW3MVYid6br6hTiDQF9e9+siSsk5o4Sjm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/ef140a88-6ebb-4529-9b94-9cc4ee612bfc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gdyld3shm1",
+      "Integrity": "vEXx1S3qpGO7xqDv1iF4mUVOzM7/E/tzMlCT1CavjJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/ai/f148dfdd-d535-46ca-b08a-bb8332b942ee#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbseqmb03b",
+      "Integrity": "5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ai\\f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/e0227ad8-5c10-47ea-99f5-6dca482b44bc#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c6tls5atat",
+      "Integrity": "DMkrLKSDlyO61zBid3bo1T8CvgbMm6TXNyitQDn8R10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e903b4cb-1212-4141-bf55-a55591e3a193.jpeg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/e903b4cb-1212-4141-bf55-a55591e3a193#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yygt9aait4",
+      "Integrity": "Kiyqiz/eFrszO/VCnwSV0T0yUmaZvfvzLsKtQEa3JbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e903b4cb-1212-4141-bf55-a55591e3a193.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-kum-1.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/kedi-kum-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ndqntvyxvv",
+      "Integrity": "S16Tih5nyDBJW8iH7PXxVAzdqbWENanuPQM30y2VJUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\kedi-kum-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-mama-1.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/kedi-mama-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uq0bb11sj5",
+      "Integrity": "hnexXiW1GAdYL1HDq1b1iz/s8zPsO9jJ5t6/yZocboc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\kedi-mama-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-oyuncak-1.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/kedi-oyuncak-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9fm4xdvdmi",
+      "Integrity": "e3CaDeIJpUOVO/Acs6pPrTJz9hMBpWieHcqnSHQ0ZKc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\kedi-oyuncak-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kopek-mama-1.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/kopek-mama-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0zwvx7biu7",
+      "Integrity": "VNoQuwfyBf3A/xFlx1g6ZHVr7GcdoUdjoOk7fXyXKlw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\kopek-mama-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\profiles\\user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/profiles/user_1_e54dfe84-041a-470e-a646-2a9d58a7f006#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tfuy8uo69j",
+      "Integrity": "Z/H26u0wm/u/b99PZqzLzlUxgprMXp8JF3g8zAtfD9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\profiles\\user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\3553f108-c712-4fa0-a6e8-2377f670a303.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/stories/3553f108-c712-4fa0-a6e8-2377f670a303#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0buhedm5",
+      "Integrity": "N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\stories\\3553f108-c712-4fa0-a6e8-2377f670a303.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\5152820a-39e4-4086-862b-7345b7ca8009.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/stories/5152820a-39e4-4086-862b-7345b7ca8009#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0buhedm5",
+      "Integrity": "N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\stories\\5152820a-39e4-4086-862b-7345b7ca8009.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/stories/64a61fc2-d73f-4998-b196-bc4974f37ba9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0buhedm5",
+      "Integrity": "N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\stories\\64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\69a7a800-ebf0-440f-966f-da03dd34fc01.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/stories/69a7a800-ebf0-440f-966f-da03dd34fc01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0buhedm5",
+      "Integrity": "N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\stories\\69a7a800-ebf0-440f-966f-da03dd34fc01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\82305019-e832-4999-ad13-d66afdaa4ca9.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/stories/82305019-e832-4999-ad13-d66afdaa4ca9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0buhedm5",
+      "Integrity": "N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\stories\\82305019-e832-4999-ad13-d66afdaa4ca9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/stories/bb42daf1-8e81-46b4-89a0-6fb642e359cc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0buhedm5",
+      "Integrity": "N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\stories\\bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/stories/ec8491e5-944b-438e-a0c0-9159b374b3b5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0buhedm5",
+      "Integrity": "N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\stories\\ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\tasima-cantasi-1.png",
+      "SourceId": "Hurma.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\",
+      "BasePath": "_content/Hurma.API",
+      "RelativePath": "uploads/tasima-cantasi-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "79am128w5b",
+      "Integrity": "lblvTG1YB4OV8ecBaP3m5me/R1CYIRiyBsOcqyl0XwI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\tasima-cantasi-1.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/073374f1-fd05-4df1-b43b-a1322c795f36.jk9u8k8nz8.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\073374f1-fd05-4df1-b43b-a1322c795f36.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 21:36:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jk9u8k8nz8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/073374f1-fd05-4df1-b43b-a1322c795f36.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/073374f1-fd05-4df1-b43b-a1322c795f36.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\073374f1-fd05-4df1-b43b-a1322c795f36.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 21:36:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/29fb7a57-d023-422e-b3dc-de6615f7f22e.5kpo1uuc26.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\29fb7a57-d023-422e-b3dc-de6615f7f22e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 Jan 2026 15:30:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kpo1uuc26"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/29fb7a57-d023-422e-b3dc-de6615f7f22e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/29fb7a57-d023-422e-b3dc-de6615f7f22e.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\29fb7a57-d023-422e-b3dc-de6615f7f22e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 Jan 2026 15:30:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jk9u8k8nz8.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 Jan 2026 16:45:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jk9u8k8nz8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\3c060f33-13f0-4f1b-a7b7-fb4a5d20f6c6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 Jan 2026 16:45:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DVzlorfTlpHGEzXScni2WiutgG5UYPMjvB0rFHisskI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OhRqjYjoOxGhh77ANiuiLH7D3nRPMMBSkuyQjqNLB9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 Jan 2026 17:04:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OhRqjYjoOxGhh77ANiuiLH7D3nRPMMBSkuyQjqNLB9I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/47afc1ee-75b9-43af-8540-cbacd9e08f7c.m4ic54dm1d.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OhRqjYjoOxGhh77ANiuiLH7D3nRPMMBSkuyQjqNLB9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 Jan 2026 17:04:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m4ic54dm1d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/47afc1ee-75b9-43af-8540-cbacd9e08f7c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OhRqjYjoOxGhh77ANiuiLH7D3nRPMMBSkuyQjqNLB9I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wl1cDAKeaAGNWax/UeMrnxIuG8/HhP4xQAavltVKF50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 15:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wl1cDAKeaAGNWax/UeMrnxIuG8/HhP4xQAavltVKF50="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.qh0z1hryt1.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wl1cDAKeaAGNWax/UeMrnxIuG8/HhP4xQAavltVKF50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 15:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qh0z1hryt1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4eafd258-f8f0-46fc-8fa8-b2a42b5c27ee.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wl1cDAKeaAGNWax/UeMrnxIuG8/HhP4xQAavltVKF50="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "360709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Jan 2026 21:27:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5dc8295c-2b84-4fb4-9d1a-430feadefc05.keisjolm98.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "360709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Jan 2026 21:27:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "keisjolm98"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5dc8295c-2b84-4fb4-9d1a-430feadefc05.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/677b70b6-6037-4d78-af4f-bbe1194bbf7d.5kpo1uuc26.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\677b70b6-6037-4d78-af4f-bbe1194bbf7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 Jan 2026 00:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kpo1uuc26"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/677b70b6-6037-4d78-af4f-bbe1194bbf7d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/677b70b6-6037-4d78-af4f-bbe1194bbf7d.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\677b70b6-6037-4d78-af4f-bbe1194bbf7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 Jan 2026 00:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6cc13840-8400-480e-aac7-cc2ffb825d7d.5kpo1uuc26.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\6cc13840-8400-480e-aac7-cc2ffb825d7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 Jan 2026 00:09:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kpo1uuc26"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6cc13840-8400-480e-aac7-cc2ffb825d7d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6cc13840-8400-480e-aac7-cc2ffb825d7d.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\6cc13840-8400-480e-aac7-cc2ffb825d7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 Jan 2026 00:09:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZVCjWG+j5NVwjIUTHUN63/54Wsz6512Eoqth5Yn65Z8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/701d3351-7732-4595-8c54-5f50631a28e9.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\701d3351-7732-4595-8c54-5f50631a28e9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "360709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 21:12:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/701d3351-7732-4595-8c54-5f50631a28e9.keisjolm98.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\701d3351-7732-4595-8c54-5f50631a28e9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "360709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 21:12:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "keisjolm98"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/701d3351-7732-4595-8c54-5f50631a28e9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1JAm8OnA1IfMgL48dBkWObSaPby4OCVdWdUJPXGjvdE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RJZV4KubweXaXDx8A1LdR7FeLKg5WFmx6HCZ2I3Y4LA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 12:06:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJZV4KubweXaXDx8A1LdR7FeLKg5WFmx6HCZ2I3Y4LA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8528c2ad-8f93-4466-ab45-1c669f0d5b6f.w7uvzfqm6n.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RJZV4KubweXaXDx8A1LdR7FeLKg5WFmx6HCZ2I3Y4LA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 12:06:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7uvzfqm6n"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8528c2ad-8f93-4466-ab45-1c669f0d5b6f.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJZV4KubweXaXDx8A1LdR7FeLKg5WFmx6HCZ2I3Y4LA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f1YazLgnpcMCo2gS0mhGnEXsbcix0s288ZZ2jlqP7WI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 Jan 2026 20:59:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f1YazLgnpcMCo2gS0mhGnEXsbcix0s288ZZ2jlqP7WI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.zr1mk4wytn.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f1YazLgnpcMCo2gS0mhGnEXsbcix0s288ZZ2jlqP7WI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 Jan 2026 20:59:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr1mk4wytn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8ae86aa7-68d5-4ca8-85eb-ed1bf94b97be.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f1YazLgnpcMCo2gS0mhGnEXsbcix0s288ZZ2jlqP7WI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/919d4015-b97a-4bd4-99db-535e81167a96.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\919d4015-b97a-4bd4-99db-535e81167a96.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HBBdGk+R8cQp8+srKeYrjPABFGKysTRrl6oONvWeUbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 21:35:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HBBdGk+R8cQp8+srKeYrjPABFGKysTRrl6oONvWeUbk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/919d4015-b97a-4bd4-99db-535e81167a96.ssdhsp5f8g.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\919d4015-b97a-4bd4-99db-535e81167a96.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HBBdGk+R8cQp8+srKeYrjPABFGKysTRrl6oONvWeUbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 21:35:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ssdhsp5f8g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/919d4015-b97a-4bd4-99db-535e81167a96.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HBBdGk+R8cQp8+srKeYrjPABFGKysTRrl6oONvWeUbk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/0cb26e55-9763-400d-a27f-3a349d00576a.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\0cb26e55-9763-400d-a27f-3a349d00576a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/0cb26e55-9763-400d-a27f-3a349d00576a.qbseqmb03b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\0cb26e55-9763-400d-a27f-3a349d00576a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbseqmb03b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/0cb26e55-9763-400d-a27f-3a349d00576a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/2cd76de1-b110-4c16-8708-a3c133d414ea.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\2cd76de1-b110-4c16-8708-a3c133d414ea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:14:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/2cd76de1-b110-4c16-8708-a3c133d414ea.qbseqmb03b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\2cd76de1-b110-4c16-8708-a3c133d414ea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:14:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbseqmb03b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/2cd76de1-b110-4c16-8708-a3c133d414ea.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/3003776f-66e8-462e-9ff3-9bb1322b4030.2m3fkeu7rw.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\3003776f-66e8-462e-9ff3-9bb1322b4030.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m3fkeu7rw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/3003776f-66e8-462e-9ff3-9bb1322b4030.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/3003776f-66e8-462e-9ff3-9bb1322b4030.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\3003776f-66e8-462e-9ff3-9bb1322b4030.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/4ed51156-b073-4204-816c-097787a45325.2m3fkeu7rw.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4ed51156-b073-4204-816c-097787a45325.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 01:09:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m3fkeu7rw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/4ed51156-b073-4204-816c-097787a45325.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/4ed51156-b073-4204-816c-097787a45325.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4ed51156-b073-4204-816c-097787a45325.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 01:09:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/4f7fe090-c53f-409e-ad97-d29a77dee7be.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/4f7fe090-c53f-409e-ad97-d29a77dee7be.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:52:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/52abcec4-409f-4f49-9e26-f8dd454c2f07.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:52:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/52abcec4-409f-4f49-9e26-f8dd454c2f07.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:04:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/760d4a5c-921f-43f6-ab03-41f8d8e588b0.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:04:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/760d4a5c-921f-43f6-ab03-41f8d8e588b0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+7K3PaP9U9QMKtj5iH7hfntj4xKj0/QRuW5okdjJ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:35:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P+7K3PaP9U9QMKtj5iH7hfntj4xKj0/QRuW5okdjJ6Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/7bb5494f-d4f1-4518-8a37-df126c7d6200.vcrfy5mrz1.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+7K3PaP9U9QMKtj5iH7hfntj4xKj0/QRuW5okdjJ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:35:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vcrfy5mrz1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/7bb5494f-d4f1-4518-8a37-df126c7d6200.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P+7K3PaP9U9QMKtj5iH7hfntj4xKj0/QRuW5okdjJ6Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:54:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:54:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/7d68c0db-4c09-490d-83ef-0e0af2d0b9c0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/8facfaca-969c-48c1-97be-dd1901887bb1.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\8facfaca-969c-48c1-97be-dd1901887bb1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:46:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/8facfaca-969c-48c1-97be-dd1901887bb1.qfnrx9dzi3.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\8facfaca-969c-48c1-97be-dd1901887bb1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:46:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfnrx9dzi3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/8facfaca-969c-48c1-97be-dd1901887bb1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/9671bf21-b035-4070-8c75-f9e21844a1df.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\9671bf21-b035-4070-8c75-f9e21844a1df.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/9671bf21-b035-4070-8c75-f9e21844a1df.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\9671bf21-b035-4070-8c75-f9e21844a1df.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/9671bf21-b035-4070-8c75-f9e21844a1df.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/996962bf-503c-4fb1-a649-ba3b9516d180.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\996962bf-503c-4fb1-a649-ba3b9516d180.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:34:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/996962bf-503c-4fb1-a649-ba3b9516d180.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\996962bf-503c-4fb1-a649-ba3b9516d180.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:34:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/996962bf-503c-4fb1-a649-ba3b9516d180.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/99c461bd-45da-4566-ab6a-478000add389.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99c461bd-45da-4566-ab6a-478000add389.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:05:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/99c461bd-45da-4566-ab6a-478000add389.qfnrx9dzi3.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99c461bd-45da-4566-ab6a-478000add389.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:05:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfnrx9dzi3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/99c461bd-45da-4566-ab6a-478000add389.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/99e6e66b-608e-4259-9101-5cf4e7732a7a.heay0isryf.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXGccZVPIncyZRaGWCKE6/NPehNA+t7VJBFtxUeGGTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 01:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "heay0isryf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXGccZVPIncyZRaGWCKE6/NPehNA+t7VJBFtxUeGGTw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\99e6e66b-608e-4259-9101-5cf4e7732a7a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXGccZVPIncyZRaGWCKE6/NPehNA+t7VJBFtxUeGGTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 01:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXGccZVPIncyZRaGWCKE6/NPehNA+t7VJBFtxUeGGTw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/a202d262-4591-4f6c-9940-477716c58335.02sii84k1i.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a202d262-4591-4f6c-9940-477716c58335.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eO897G7mUDbF817n5bNUUG5CMTv1g1/Vd46CQ/fc9pA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:12:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02sii84k1i"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/a202d262-4591-4f6c-9940-477716c58335.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eO897G7mUDbF817n5bNUUG5CMTv1g1/Vd46CQ/fc9pA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/a202d262-4591-4f6c-9940-477716c58335.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a202d262-4591-4f6c-9940-477716c58335.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eO897G7mUDbF817n5bNUUG5CMTv1g1/Vd46CQ/fc9pA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:12:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eO897G7mUDbF817n5bNUUG5CMTv1g1/Vd46CQ/fc9pA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:05:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/a75efb58-bb42-4e6b-9bec-049a802ebafa.qfnrx9dzi3.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:05:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfnrx9dzi3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/a75efb58-bb42-4e6b-9bec-049a802ebafa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.qfnrx9dzi3.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfnrx9dzi3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/b2ab6c1c-11ec-4aab-b6d6-d9b73fb2239f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/b877f682-7b29-4ee3-ade7-95adb84de501.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b877f682-7b29-4ee3-ade7-95adb84de501.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:58:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/b877f682-7b29-4ee3-ade7-95adb84de501.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\b877f682-7b29-4ee3-ade7-95adb84de501.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:58:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/b877f682-7b29-4ee3-ade7-95adb84de501.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:32:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/bd04426e-2ad0-4742-9f15-0caa600f28fa.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:32:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/bd04426e-2ad0-4742-9f15-0caa600f28fa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:56:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/c3cb5385-bea8-4328-8e53-9738d691a8b7.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 23:56:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/c3cb5385-bea8-4328-8e53-9738d691a8b7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/c48439a9-e747-4343-8d2a-057704aae998.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c48439a9-e747-4343-8d2a-057704aae998.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:08:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/c48439a9-e747-4343-8d2a-057704aae998.qfnrx9dzi3.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\c48439a9-e747-4343-8d2a-057704aae998.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:08:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfnrx9dzi3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/c48439a9-e747-4343-8d2a-057704aae998.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsSlbIfKzyR1L5UW4sBB5Nhfq0JZr4IP+Pqoa2x+4kU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/cc284ea7-bde2-4652-be1e-075f144031f1.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cc284ea7-bde2-4652-be1e-075f144031f1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/cc284ea7-bde2-4652-be1e-075f144031f1.qbseqmb03b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cc284ea7-bde2-4652-be1e-075f144031f1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbseqmb03b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/cc284ea7-bde2-4652-be1e-075f144031f1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/ce1f4929-bbac-4252-af8e-f1cf47d334ed.2m3fkeu7rw.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 01:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m3fkeu7rw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ce1f4929-bbac-4252-af8e-f1cf47d334ed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 01:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3X5Qmmx77VML264mFvBK8igPZM4FA7S2ZYjKsa9IAeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:47:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3X5Qmmx77VML264mFvBK8igPZM4FA7S2ZYjKsa9IAeo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/cf853de4-a92b-4cf2-9add-6ef714eb9bb2.lik8dq9ond.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3X5Qmmx77VML264mFvBK8igPZM4FA7S2ZYjKsa9IAeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:47:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lik8dq9ond"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/cf853de4-a92b-4cf2-9add-6ef714eb9bb2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3X5Qmmx77VML264mFvBK8igPZM4FA7S2ZYjKsa9IAeo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:46:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.qsvhzjt9wx.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:46:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsvhzjt9wx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/e1067b5e-6b65-4b86-b2a2-cb751dc6f22b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgVvgk9nCeP3bi/6jkMQlqyDe48Kjcco8FjU9BV1TsQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e1813cdf-69a9-47f7-b675-d5e816619765.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1813cdf-69a9-47f7-b675-d5e816619765.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:21:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e1813cdf-69a9-47f7-b675-d5e816619765.qbseqmb03b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e1813cdf-69a9-47f7-b675-d5e816619765.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:21:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbseqmb03b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/e1813cdf-69a9-47f7-b675-d5e816619765.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:19:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e5bfa823-8c20-4974-9cd7-af1ab357f460.qbseqmb03b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:19:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbseqmb03b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/e5bfa823-8c20-4974-9cd7-af1ab357f460.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e5d26852-d37f-4642-80d6-700240cbc244.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5d26852-d37f-4642-80d6-700240cbc244.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e5d26852-d37f-4642-80d6-700240cbc244.qbseqmb03b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e5d26852-d37f-4642-80d6-700240cbc244.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbseqmb03b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/e5d26852-d37f-4642-80d6-700240cbc244.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e69eefad-5a31-45e6-9f1b-43a777c4afa3.2m3fkeu7rw.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:35:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m3fkeu7rw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\e69eefad-5a31-45e6-9f1b-43a777c4afa3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 21:35:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CuwySxh+4C0Zd/+R3dqGjQUxRVxrsYAJDuzaG7xY5dA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.c4ky4n5xsb.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJVSKSvUiMW3MVYid6br6hTiDQF9e9+siSsk5o4Sjm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:04:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c4ky4n5xsb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJVSKSvUiMW3MVYid6br6hTiDQF9e9+siSsk5o4Sjm0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ecaf3d81-42a6-49e4-9604-ba0c29aae7d7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJVSKSvUiMW3MVYid6br6hTiDQF9e9+siSsk5o4Sjm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:04:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJVSKSvUiMW3MVYid6br6hTiDQF9e9+siSsk5o4Sjm0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/ef140a88-6ebb-4529-9b94-9cc4ee612bfc.gdyld3shm1.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vEXx1S3qpGO7xqDv1iF4mUVOzM7/E/tzMlCT1CavjJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 16:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gdyld3shm1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vEXx1S3qpGO7xqDv1iF4mUVOzM7/E/tzMlCT1CavjJU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\ef140a88-6ebb-4529-9b94-9cc4ee612bfc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vEXx1S3qpGO7xqDv1iF4mUVOzM7/E/tzMlCT1CavjJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 16:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vEXx1S3qpGO7xqDv1iF4mUVOzM7/E/tzMlCT1CavjJU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ai/f148dfdd-d535-46ca-b08a-bb8332b942ee.qbseqmb03b.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\ai\\f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Jan 2026 00:17:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbseqmb03b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ai/f148dfdd-d535-46ca-b08a-bb8332b942ee.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qgzurMjQddSbYV4NRA2DOIu6aqBu+aeUsLl12cPLaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e0227ad8-5c10-47ea-99f5-6dca482b44bc.c6tls5atat.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "206351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMkrLKSDlyO61zBid3bo1T8CvgbMm6TXNyitQDn8R10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 15:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c6tls5atat"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMkrLKSDlyO61zBid3bo1T8CvgbMm6TXNyitQDn8R10="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e0227ad8-5c10-47ea-99f5-6dca482b44bc.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "206351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMkrLKSDlyO61zBid3bo1T8CvgbMm6TXNyitQDn8R10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 15:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMkrLKSDlyO61zBid3bo1T8CvgbMm6TXNyitQDn8R10="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e903b4cb-1212-4141-bf55-a55591e3a193.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e903b4cb-1212-4141-bf55-a55591e3a193.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kiyqiz/eFrszO/VCnwSV0T0yUmaZvfvzLsKtQEa3JbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 12:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kiyqiz/eFrszO/VCnwSV0T0yUmaZvfvzLsKtQEa3JbA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e903b4cb-1212-4141-bf55-a55591e3a193.yygt9aait4.jpeg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\e903b4cb-1212-4141-bf55-a55591e3a193.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kiyqiz/eFrszO/VCnwSV0T0yUmaZvfvzLsKtQEa3JbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 12:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yygt9aait4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e903b4cb-1212-4141-bf55-a55591e3a193.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kiyqiz/eFrszO/VCnwSV0T0yUmaZvfvzLsKtQEa3JbA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kedi-kum-1.ndqntvyxvv.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-kum-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S16Tih5nyDBJW8iH7PXxVAzdqbWENanuPQM30y2VJUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 22:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ndqntvyxvv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/kedi-kum-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S16Tih5nyDBJW8iH7PXxVAzdqbWENanuPQM30y2VJUI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kedi-kum-1.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-kum-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S16Tih5nyDBJW8iH7PXxVAzdqbWENanuPQM30y2VJUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 22:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S16Tih5nyDBJW8iH7PXxVAzdqbWENanuPQM30y2VJUI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kedi-mama-1.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-mama-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hnexXiW1GAdYL1HDq1b1iz/s8zPsO9jJ5t6/yZocboc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 22:58:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hnexXiW1GAdYL1HDq1b1iz/s8zPsO9jJ5t6/yZocboc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kedi-mama-1.uq0bb11sj5.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-mama-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hnexXiW1GAdYL1HDq1b1iz/s8zPsO9jJ5t6/yZocboc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 22:58:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uq0bb11sj5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/kedi-mama-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hnexXiW1GAdYL1HDq1b1iz/s8zPsO9jJ5t6/yZocboc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kedi-oyuncak-1.9fm4xdvdmi.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-oyuncak-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e3CaDeIJpUOVO/Acs6pPrTJz9hMBpWieHcqnSHQ0ZKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 23:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9fm4xdvdmi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/kedi-oyuncak-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e3CaDeIJpUOVO/Acs6pPrTJz9hMBpWieHcqnSHQ0ZKc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kedi-oyuncak-1.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kedi-oyuncak-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e3CaDeIJpUOVO/Acs6pPrTJz9hMBpWieHcqnSHQ0ZKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 23:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e3CaDeIJpUOVO/Acs6pPrTJz9hMBpWieHcqnSHQ0ZKc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kopek-mama-1.0zwvx7biu7.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kopek-mama-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VNoQuwfyBf3A/xFlx1g6ZHVr7GcdoUdjoOk7fXyXKlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 22:58:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zwvx7biu7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/kopek-mama-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VNoQuwfyBf3A/xFlx1g6ZHVr7GcdoUdjoOk7fXyXKlw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kopek-mama-1.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\kopek-mama-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VNoQuwfyBf3A/xFlx1g6ZHVr7GcdoUdjoOk7fXyXKlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 22:58:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VNoQuwfyBf3A/xFlx1g6ZHVr7GcdoUdjoOk7fXyXKlw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/profiles/user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\profiles\\user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/H26u0wm/u/b99PZqzLzlUxgprMXp8JF3g8zAtfD9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 17:04:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z/H26u0wm/u/b99PZqzLzlUxgprMXp8JF3g8zAtfD9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/profiles/user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.tfuy8uo69j.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\profiles\\user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/H26u0wm/u/b99PZqzLzlUxgprMXp8JF3g8zAtfD9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Jan 2026 17:04:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tfuy8uo69j"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/profiles/user_1_e54dfe84-041a-470e-a646-2a9d58a7f006.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z/H26u0wm/u/b99PZqzLzlUxgprMXp8JF3g8zAtfD9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/3553f108-c712-4fa0-a6e8-2377f670a303.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\3553f108-c712-4fa0-a6e8-2377f670a303.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/3553f108-c712-4fa0-a6e8-2377f670a303.no0buhedm5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\3553f108-c712-4fa0-a6e8-2377f670a303.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0buhedm5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/stories/3553f108-c712-4fa0-a6e8-2377f670a303.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/5152820a-39e4-4086-862b-7345b7ca8009.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\5152820a-39e4-4086-862b-7345b7ca8009.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/5152820a-39e4-4086-862b-7345b7ca8009.no0buhedm5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\5152820a-39e4-4086-862b-7345b7ca8009.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0buhedm5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/stories/5152820a-39e4-4086-862b-7345b7ca8009.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/64a61fc2-d73f-4998-b196-bc4974f37ba9.no0buhedm5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0buhedm5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/stories/64a61fc2-d73f-4998-b196-bc4974f37ba9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/69a7a800-ebf0-440f-966f-da03dd34fc01.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\69a7a800-ebf0-440f-966f-da03dd34fc01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/69a7a800-ebf0-440f-966f-da03dd34fc01.no0buhedm5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\69a7a800-ebf0-440f-966f-da03dd34fc01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0buhedm5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/stories/69a7a800-ebf0-440f-966f-da03dd34fc01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/82305019-e832-4999-ad13-d66afdaa4ca9.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\82305019-e832-4999-ad13-d66afdaa4ca9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/82305019-e832-4999-ad13-d66afdaa4ca9.no0buhedm5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\82305019-e832-4999-ad13-d66afdaa4ca9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0buhedm5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/stories/82305019-e832-4999-ad13-d66afdaa4ca9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:07:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/bb42daf1-8e81-46b4-89a0-6fb642e359cc.no0buhedm5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 21:07:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0buhedm5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/stories/bb42daf1-8e81-46b4-89a0-6fb642e359cc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 20:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/stories/ec8491e5-944b-438e-a0c0-9159b374b3b5.no0buhedm5.jpg",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\stories\\ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Dec 2025 20:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0buhedm5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/stories/ec8491e5-944b-438e-a0c0-9159b374b3b5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7ozMklRB70MVaFB486vHnmw0CLxpb4oheAjRJ2vSi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/tasima-cantasi-1.79am128w5b.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\tasima-cantasi-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lblvTG1YB4OV8ecBaP3m5me/R1CYIRiyBsOcqyl0XwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 23:17:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79am128w5b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/tasima-cantasi-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lblvTG1YB4OV8ecBaP3m5me/R1CYIRiyBsOcqyl0XwI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/tasima-cantasi-1.png",
+      "AssetFile": "C:\\Users\\bbaha\\Hurma.API\\wwwroot\\uploads\\tasima-cantasi-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lblvTG1YB4OV8ecBaP3m5me/R1CYIRiyBsOcqyl0XwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 23:17:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lblvTG1YB4OV8ecBaP3m5me/R1CYIRiyBsOcqyl0XwI="
+        }
+      ]
+    }
+  ]
+}

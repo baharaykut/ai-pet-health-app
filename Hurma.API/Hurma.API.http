@@ -1,0 +1,6 @@
+@Hurma.API_HostAddress = http://localhost:5058
+
+GET {{Hurma.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

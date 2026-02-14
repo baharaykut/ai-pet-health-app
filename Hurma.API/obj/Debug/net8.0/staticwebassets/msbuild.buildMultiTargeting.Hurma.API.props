@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hurma.API.props" />
+</Project>
