@@ -200,7 +200,7 @@ AI & Full-Stack Software Developer
 📍 Türkiye
 🔗 GitHub: https://github.com/baharaykut
 
-🔗 LinkedIn: (LinkedIn linkini ekleyebilirsin)
+🔗 LinkedIn: linkedin.com/in/bahar-aykut-13876326b
 
 🔎 Areas of Expertise
 
